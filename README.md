@@ -1,5 +1,16 @@
+<p align="center">
+<pre style="color: #00F0FF; font-family: monospace; font-weight: bold; line-height: 1.1;">
+██╗   ██╗███████╗██╗  ██╗
+██║   ██║██╔════╝╚██╗██╔╝
+╚██╗ ██╔╝█████╗   ╚███╔╝
+ ╚████╔╝ ██╔══╝   ██╔██╗
+  ╚██╔╝  ███████╗██╔╝ ██╗
+   ╚═╝   ╚══════╝╚═╝  ╚═╝
+</pre>
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=VEX;ARTIFICIAL+INTELLIGENCE;DATA+SCIENCE+%26+CS;BUILD+FROM+ZERO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=ARTIFICIAL+INTELLIGENCE;DATA+SCIENCE+%26+CS;BUILD+FROM+ZERO" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -27,9 +38,14 @@
 
 ---
 
-### ⚙️ 02 / TRANSMISSION LOG
+### 📊 02 / LANGUAGE STACK
+> Listed in my current order of familiarity — not percentage scores.
 
-> `> initializing AI & Data Science modules...`  
-> `> processing algorithmic models and quantum logic...`  
-> `> status: building high-performance computational systems.`
+```text
+MOST FAMILIAR
+│
+├── [ Python ]  ████████████████░░  AI, data science, algorithms
+├── [ C++    ]  ████████████░░░░░░  performance-aware software
+├── [ C      ]  ██████████░░░░░░░░  low-level & systems programming
+└── [ Bash   ]  ████████░░░░░░░░░░  automation & workflows
 
