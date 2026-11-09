@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=VEX;LOW-LEVEL+ENGINEERING;CRYPTO+%26+QUANTUM;BUILD+FROM+ZERO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=VEX;ARTIFICIAL+INTELLIGENCE;DATA+SCIENCE+%26+CS;BUILD+FROM+ZERO" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
-`LOW-LEVEL ENGINEERING // CRYPTO & SECURITY // QUANTUM COMPUTING`
+`ARTIFICIAL INTELLIGENCE // DATA SCIENCE // COMPUTER SCIENCE`
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=00FF66&center=true&vCenter=true&width=500&height=30&lines=I+close+machine.;I+build+systems+from+scratch.;Exploring+cryptography+and+quantum+simulations." target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=00FF66&center=true&vCenter=true&width=500&height=30&lines=I+close+machine.;I+build+systems+from+scratch.;Exploring+cryptography+and+quantum+simulations." alt="Typing SVG Moving Text" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=00FF66&center=true&vCenter=true&width=650&height=30&lines=Architecting+intelligent+systems+and+AI+models.;Extracting+insights+from+complex+data+structures.;Bridging+theoretical+computer+science+with+code.;Exploring+cryptography+and+quantum+simulations." target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=00FF66&center=true&vCenter=true&width=650&height=30&lines=Architecting+intelligent+systems+and+AI+models.;Extracting+insights+from+complex+data+structures.;Bridging+theoretical+computer+science+with+code.;Exploring+cryptography+and+quantum+simulations." alt="Typing SVG Moving Text" />
   </a>
 </p>
 
@@ -18,18 +18,18 @@
 
 ### 💻 01 / THE WORKBENCH
 
-| Project | Description |
-| :--- | :--- |
-| **[crypto-from-scratch](https://github.com/sparkj365-create/crypto-from-scratch)** | Implementing cryptographic algorithms from scratch for educational and security insights. |
-| **[qsim-quantum-simulator](https://github.com/sparkj365-create/qsim-quantum-simulator)** | A quantum computing simulator designed to understand quantum mechanics programmatically. |
-| **[kde-digits-classifier](https://github.com/sparkj365-create/kde-digits-classifier)** | Handwritten digit classification project using Kernel Density Estimation (KDE). |
-| **[PyCppCrypt](https://github.com/sparkj365-create/PyCppCrypt)** | Hybrid Python and C++ cryptography toolkit for high-performance encryption tasks. |
+| Project | Focus | Description |
+| :--- | :--- | :--- |
+| **[crypto-from-scratch](https://github.com/sparkj365-create/crypto-from-scratch)** | `Cryptography` • `CS` | Low-level implementation of cryptographic algorithms from first principles to understand mathematical security models. |
+| **[qsim-quantum-simulator](https://github.com/sparkj365-create/qsim-quantum-simulator)** | `Quantum` • `AI / Math` | Algorithmic state-vector quantum computing simulator designed for evaluating quantum gates and probabilistic circuits. |
+| **[kde-digits-classifier](https://github.com/sparkj365-create/kde-digits-classifier)** | `Data Science` • `AI` | Machine learning digit recognition engine using non-parametric Kernel Density Estimation (KDE) for statistical classification. |
+| **[PyCppCrypt](https://github.com/sparkj365-create/PyCppCrypt)** | `System Dev` • `C++ / Py` | High-performance hybrid cryptography engine binding C++ execution speed with Python flexibility. |
 
 ---
 
 ### ⚙️ 02 / TRANSMISSION LOG
 
-> `> scanning public repositories...`  
-> `> identifying low-level experiments...`  
-> `> system operational: ready for deployment.`
+> `> initializing AI & Data Science modules...`  
+> `> processing algorithmic models and quantum logic...`  
+> `> status: building high-performance computational systems.`
 
